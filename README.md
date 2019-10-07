@@ -6,15 +6,15 @@
 <ul>
  <li>Advertise your spot easily</li>
  <li>Renting spot is even easier</li>
- <li><strong>Web</strong> and <strong>Mobile</strong> version</li>
+ <li><strong>Web</strong> and <strong><a href="id="Web"">Mobile</strong> version</a></li>
 </ul>
 
-<h3>Mobile</h3>
+<h3 id="mobile">Mobile</h3>
 <img src="https://user-images.githubusercontent.com/26607023/66325434-283f3600-e91f-11e9-848e-aad50a8c1a79.png" />
 <img src="https://user-images.githubusercontent.com/26607023/66325519-4c027c00-e91f-11e9-831d-3bfd0cda5006.png" />
 
 
-<h3>Web</h3>
+<h3 id="web">Web</h3>
 <img src="https://user-images.githubusercontent.com/26607023/66325604-718f8580-e91f-11e9-88c6-d79ec62dd685.png" />
 <img src="https://user-images.githubusercontent.com/26607023/66325634-7c4a1a80-e91f-11e9-9924-1fd2d400319a.png" />
 <img src="https://user-images.githubusercontent.com/26607023/66325636-7e13de00-e91f-11e9-9b91-8acdc0dc1079.png" />
