@@ -6,7 +6,7 @@
 <ul>
  <li>Advertise your spot easily</li>
  <li>Renting spot is even easier</li>
- <li><strong><a href="#web">Web</a></strong> and <strong><a href="#web">Mobile</a></strong> version</li>
+ <li><strong><a href="#mobile">Mobile</a></strong> and <strong><a href="#web">Web</a></strong> version</li>
 </ul>
 
 <h3 id="mobile">Mobile</h3>
